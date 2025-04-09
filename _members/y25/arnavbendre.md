@@ -17,6 +17,3 @@ layout: single
 ## Education  
 - **B.Tech**, Energy Engineering, IIT Roorkee (2024–2028)  
 
-
-## Screenshots
-
