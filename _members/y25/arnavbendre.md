@@ -7,7 +7,7 @@ layout: single
 
 # Arnav Bendre
 
-![Arnav Bendre](../../assets/images/members/y25/arnavbendre.png)
+![Arnav Bendre](../../assets/images/members/y25/arnavpfp.png)
 
 
 *Member, DSG IIT Roorkee*
