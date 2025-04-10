@@ -1,7 +1,7 @@
 ---
 title: ""
 permalink: /members/ojasvanema
-layout: custom
+layout: single
 ---
 
 
@@ -16,7 +16,7 @@ layout: custom
 ---
 
 ## Education  
-- **B.Tech**,Metallurgical and materials engineering, IIT Roorkee (2023-2027)  
+- **B.Tech**, Metallurgical and materials engineering, IIT Roorkee (2023-2027)  
 
 ---
 
@@ -43,7 +43,7 @@ layout: custom
 
 ---
 
-## Follow
+## Links
 [GitHub](https://github.com/ojasvanema) | [LinkedIn](https://www.linkedin.com/in/ojasva-nema-ba3415278/)
 
 ---
